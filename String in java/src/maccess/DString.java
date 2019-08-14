@@ -1,4 +1,5 @@
 package maccess;
+//this is good practice
 public class DString {
 public static void main(String args[]){
 String s1="java";
